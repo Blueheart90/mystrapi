@@ -37,6 +37,9 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::technology.technology"
+    },
+    "video": {
+      "type": "string"
     }
   }
 }
